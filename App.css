@@ -1,0 +1,20 @@
+body {
+  background: url(C:\Users\Oswald\Documents\GitHub\sdi-blended-react-hooks-scaffold\front-end\src\background.jpg);
+  background-size: cover;
+  padding: 40px;
+  font-family: Arial;
+  text-align: ;
+}
+ 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+  }
+
+ 
+.banner {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%;
+}
